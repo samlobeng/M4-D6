@@ -1,0 +1,53 @@
+document.body {
+  background-color: black;
+  height: 100%;
+  color: white;
+  font-size: 0.5rem !important;
+}
+
+#root {
+  background-color: black;
+  height: 100%;
+}
+
+.supermargin {
+  margin-top: 100px;
+}
+
+.superbottom {
+  padding-bottom: 300px;
+}
+
+.minibottom {
+  padding-bottom: 180px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.list-group {
+  border-radius: 0!important;
+  border-left: 0;
+  border-right: 0;
+}
+
+#sendBtn {
+  font-size: 15px;
+  width: 100%;
+}
+
+#rate {
+  padding-left: 2px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
